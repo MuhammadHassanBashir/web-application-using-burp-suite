@@ -55,4 +55,6 @@ remember to on the intercepter listener in brup suite for listening the browser 
 
     go to browser setting and search certification > open certificate manager > open to authorities section and click **import** and import the burpcacert.der certification on browser from your system... after this restart your browser and search any website on browser. our burp suite will detect the traffic on burp suite software... once you forward packet from burp suite. Then package will get the response and will show this in brup suite...
 
+## vedio link for burp suite web application scanning(penetration testing)
 
+        https://www.youtube.com/watch?v=VP9eQhUASYQ&t=11s
